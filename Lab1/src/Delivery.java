@@ -5,3 +5,4 @@ public interface Delivery {
     boolean requiresCourier();
     void deliver(Order order);
 }
+

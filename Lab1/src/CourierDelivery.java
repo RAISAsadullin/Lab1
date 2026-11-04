@@ -24,3 +24,4 @@ public class CourierDelivery implements Delivery {
         System.out.println("Заказ отправлен стандартным курьером.");
     }
 }
+
